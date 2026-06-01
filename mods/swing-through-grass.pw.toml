@@ -1,6 +1,6 @@
 name = "Swing Through Grass"
 filename = "swingthroughgrass-fabric-26.1.2-1.0.0-26.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2UJdja33/versions/VvHMZ6i2/swingthroughgrass-fabric-26.1.2-1.0.0-26.1.2.jar"

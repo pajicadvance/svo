@@ -1,6 +1,6 @@
 name = "Pick Tool"
 filename = "picktool-1.1.1+26.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xxJXgVn0/versions/wNSdHTnp/picktool-1.1.1%2B26.1-fabric.jar"

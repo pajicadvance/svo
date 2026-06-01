@@ -1,6 +1,6 @@
 name = "Simple Death Improvements"
 filename = "simple_death_improvements-1.5.2+26.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2JFsuD70/versions/CfQhMWc1/simple_death_improvements-1.5.2%2B26.1-fabric.jar"

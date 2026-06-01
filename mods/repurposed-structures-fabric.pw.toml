@@ -1,6 +1,6 @@
 name = "Repurposed Structures - Fabric"
 filename = "repurposed_structures-7.7.4+26.1-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/muf0XoRe/versions/Jvol4Hh2/repurposed_structures-7.7.4%2B26.1-fabric.jar"

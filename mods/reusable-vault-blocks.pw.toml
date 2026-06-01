@@ -1,6 +1,6 @@
 name = "Reusable Vault Blocks"
 filename = "Reusable Vault Blocks - Fabric [26.1].jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Q9m3my28/versions/kqA9cQTL/Reusable%20Vault%20Blocks%20-%20Fabric%20%5B26.1%5D.jar"
