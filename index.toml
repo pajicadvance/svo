@@ -318,7 +318,7 @@ hash = "f159e57cfc2b56e6b5cbc939bfcf0a48219d5a8c76167bb183119a9f66704fd5"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "f390eaa90984816f3d640712fd8be6445c56630f6651caa7b768bfc7390f8b12"
+hash = "9bb018ccff06aec2c6d4ef471d86e5f768f04f81795ddc229966e37a362164a5"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
