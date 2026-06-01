@@ -1,0 +1,11 @@
+# Exclude README
+/README.md
+
+# Exclude CHANGELOG
+/CHANGELOG.md
+
+# Exclude server installer
+server/
+
+# Exclude offsite files
+offsite/

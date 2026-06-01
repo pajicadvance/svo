@@ -1,0 +1,25 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+earlyGameExtension = true
+cliffFixes = true
+recipeChanges = true
+
+[modIntegration]
+svoFDAddon = true
+
+[misc]
+cakeSliceFoodLevel = 3
+cakeSliceSaturationLevel = 0.3
+caveAmbientSoundFrequency = 800
+hoglinSpawnOnlyOnCrimsonNylium = true
+alwaysUpdateMaps = false
+frostWalkerEarlyTrigger = true
+fixOcelotSpawn = true
+coffinActivationRange = 8
+repairableReliableGlider = true
+revaultTime = 54000
+ominousRevaultTime = 72000
+
+[debug]
+logDebugMessages = false
+exportJsonPatches = false

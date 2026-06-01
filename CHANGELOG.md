@@ -1,0 +1,1 @@
+- Initial release of Simple Vanilla Overhaul for Minecraft 26.1.2.

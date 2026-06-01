@@ -1,0 +1,20 @@
+{
+  "enabled": "when_searching",
+  "sidePanelEnabled": "disabled",
+  "background": true,
+  "itemWrapMode": true,
+  "appendModNamespace": false,
+  "rightIndex": true,
+  "centerSearch": true,
+  "showButtons": true,
+  "wrapScrolling": "on_buttons",
+  "sidePanel": "disabled",
+  "showProgressBar": true,
+  "fluidUnitDroplets": false,
+  "centerRecipeScreen": false,
+  "namespaceTooltip": "hide",
+  "showRecipeId": false,
+  "recipeBookButton": false,
+  "recipeBookTheme": true,
+  "localFallback": false
+}

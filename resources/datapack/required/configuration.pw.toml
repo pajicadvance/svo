@@ -1,0 +1,8 @@
+name = "Modpack Configuration Datapack"
+filename = "configuration.zip"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/pajicadvance/svo/26.1/offsite/configuration.zip"
+hash-format = "sha512"
+hash = "ed5100aadd020c56c62f84f70e11baed0441c49da7494e45cae36ef007ad7510c34797e09bfaf7458093bfd212ea75b3e50b45088db8231922666a0d0bfc0289"

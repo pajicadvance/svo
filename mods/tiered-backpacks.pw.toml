@@ -1,0 +1,13 @@
+name = "Tiered Backpacks"
+filename = "tiered_backpacks-1.0.17+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhNtYNEF/versions/zkutMZle/tiered_backpacks-1.0.17%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "313586a7615b661badd477148315cd853830ca9f429be924ffd150e251e54dfd44dece3ba8b11e8b4242972309351962467b3c8c1aa903ddbc17c67d22d4fe24"
+
+[update]
+[update.modrinth]
+mod-id = "IhNtYNEF"
+version = "zkutMZle"

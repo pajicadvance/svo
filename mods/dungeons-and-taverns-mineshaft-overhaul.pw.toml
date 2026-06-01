@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Mineshaft Overhaul"
+filename = "dungeons-and-taverns-mineshaft-overhaul-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ozLFhOy3/versions/m7aJOeDj/dungeons-and-taverns-mineshaft-overhaul-1.jar"
+hash-format = "sha512"
+hash = "35403f3ae760deefda67fc606ee2d97e521d88fe076892316d2d05c40b40f78114487892ddfbdf60340c85c68ea67c9fc72c3eeb8d0602611d67569cf7c160e6"
+
+[update]
+[update.modrinth]
+mod-id = "ozLFhOy3"
+version = "m7aJOeDj"

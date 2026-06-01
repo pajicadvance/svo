@@ -1,0 +1,32 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "text": "Simple Vanilla Overhaul 26.1.0",
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://modrinth.com/modpack/svo"
+                },
+                "hover_event": {
+                    "action": "show_text",
+                    "value": "Made with ❤ by pajic\nClick to open modpack page on Modrinth"
+                }
+            }
+        ]
+    },
+    "pause_menu": {
+        "bottom_right": [
+            {
+                "text": "Simple Vanilla Overhaul 26.1.0",
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://modrinth.com/modpack/svo"
+                },
+                "hover_event": {
+                    "action": "show_text",
+                    "value": "Made with ❤ by pajic\nClick to open modpack page on Modrinth"
+                }
+            }
+        ]
+    }
+}

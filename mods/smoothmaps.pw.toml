@@ -1,0 +1,13 @@
+name = "SmoothMaps"
+filename = "smoothmaps-fabric-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x69OnBPN/versions/S19KBOX3/smoothmaps-fabric-1.6.1.jar"
+hash-format = "sha512"
+hash = "e34f88bc17a53a7b30fd6125bc8bce72d216d9fdce60636f8cd3679326a067d7f9e01fcebf8f40000cbcc2e5af812e28059ceecda6d7101598d79311c52682fc"
+
+[update]
+[update.modrinth]
+mod-id = "x69OnBPN"
+version = "S19KBOX3"

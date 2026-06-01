@@ -1,0 +1,13 @@
+name = "ButterBee - Mob Variants"
+filename = "Butterbee 1.0.5 - 26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/91Xzenxx/versions/VEbi4Xgc/Butterbee%201.0.5%20-%2026.1.jar"
+hash-format = "sha512"
+hash = "a0415e77995b5a6630f00c0795d51f0ca606ebd9008437c73053c3b06b38e9749cbd062e3f9e37405e1fc954df72e4145f48e7249655f9599188fddecfe783b2"
+
+[update]
+[update.modrinth]
+mod-id = "91Xzenxx"
+version = "VEbi4Xgc"
