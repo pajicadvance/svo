@@ -418,6 +418,11 @@ hash = "478341827ee7a87cb12133d2bdc9b4294e31af3389b4877b8740aa5dca0467bf"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "eb8c88db05be5e3214855584e35013bd1ca24cbef6eb22921a22aeea83faac31"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
 metafile = true
