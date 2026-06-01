@@ -13,10 +13,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
-file = "config/iris_shader_folder.properties"
-hash = "7bec1bba16cbd7626ab7526e41f570c295f5bd69fad92a1f6867dbb59e7536ab"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "b714eecb3a4c3e99177e21d66d9bd5b3b8487cf380658e7afd8f274258a823b5"
 
@@ -318,7 +314,7 @@ hash = "f159e57cfc2b56e6b5cbc939bfcf0a48219d5a8c76167bb183119a9f66704fd5"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "9bb018ccff06aec2c6d4ef471d86e5f768f04f81795ddc229966e37a362164a5"
+hash = "3de02f7620f65dbe6b64203227fef0fd35807c73d557bf6255a5d6ab5f92ac8c"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
@@ -709,11 +705,6 @@ metafile = true
 [[files]]
 file = "mods/inline-tooltips.pw.toml"
 hash = "b3c52f8286ea9f01bedaa3e0866c6815cec3b96b9df1444b72a0df41da1a5e67"
-metafile = true
-
-[[files]]
-file = "mods/iris-shader-folder.pw.toml"
-hash = "8d17a52250a89e378a843ecacd66a77cdd82931ad77ba82ed49245daa3f53e0d"
 metafile = true
 
 [[files]]
