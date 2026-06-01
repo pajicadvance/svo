@@ -153,6 +153,30 @@ file = "config/modpack_defaults/config/pickupnotifications.toml"
 hash = "e6a11409ff2e7826db5413a221b26590ce2d42b9418bf7853efe89302ca3d40a"
 
 [[files]]
+file = "config/modpack_defaults/config/polymer/auto-host.json"
+hash = "a89d4eeaab6597586f25ba23ff3652038f0c16d0f5cbac7eb6082243b152bee9"
+
+[[files]]
+file = "config/modpack_defaults/config/polymer/client.json"
+hash = "228c53f5434e6d5238f8e41aa13ce4f48385af5d00b1e835f34a6c8048207200"
+
+[[files]]
+file = "config/modpack_defaults/config/polymer/common.json"
+hash = "d4bbedb8c7ff47c2d254afe199e182206c76a041ea239718bf9f7637a3db5461"
+
+[[files]]
+file = "config/modpack_defaults/config/polymer/resource-pack.json"
+hash = "161d70e366e8bb0264b8bfa429caf170a1ab16c0a8038a80ce2a16f34661e3e4"
+
+[[files]]
+file = "config/modpack_defaults/config/polymer/server.json"
+hash = "2cf078a66c6036c9fa48c50189e1bc82e0fc81389f313be3dfdcc580cd0e48fb"
+
+[[files]]
+file = "config/modpack_defaults/config/polymer/sound-patch.json"
+hash = "f815116c7a6a7ba28de432cf2be7fdbf49e2e1adb5436438d347d391ee3b5c74"
+
+[[files]]
 file = "config/modpack_defaults/config/rrv/client_settings.json"
 hash = "ee694023ec304f105332d631c8f8c4e43fe416e3d2b992003dfd8aab069b9d13"
 
@@ -653,6 +677,11 @@ hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "53617f29fac13f3ef8cb25a6c6aeba6d080c28a306dccb71fe1f4da9d4a1c345"
+metafile = true
+
+[[files]]
 file = "mods/golden-potions.pw.toml"
 hash = "00c7bbb6ec2842ccdb62cad9c206796b1f56abf994c5d4d65c8ad62b1d9f6383"
 metafile = true
@@ -875,6 +904,11 @@ metafile = true
 [[files]]
 file = "mods/pneumono_core.pw.toml"
 hash = "a4d0c8354808a4ecf4894a8e91cda492c5dfdd3fa11e9616240301ca250805e5"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
 metafile = true
 
 [[files]]
