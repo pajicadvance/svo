@@ -533,6 +533,11 @@ hash = "78773495609b64dd539a2db03395128f206b75f3fd48922e803213fb5698e69f"
 metafile = true
 
 [[files]]
+file = "mods/depillage.pw.toml"
+hash = "5308686d16cf02502694fa76ab0b4ff6b9ce06b68d55ee7aef2344f30e56c162"
+metafile = true
+
+[[files]]
 file = "mods/dont-hide-my-items.pw.toml"
 hash = "bc83f6a9a8cd05e8c811e1cd78eae78866c30a651b7c4a64b6b1e1b8c0d79cf0"
 metafile = true
