@@ -1,1 +1,2 @@
 - Initial release of Simple Vanilla Overhaul for Minecraft 26.1.2.
+- **Worlds from 1.21.1 versions are incompatible**. The mod list has undergone a rework, see the mod description.
