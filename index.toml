@@ -418,11 +418,6 @@ hash = "478341827ee7a87cb12133d2bdc9b4294e31af3389b4877b8740aa5dca0467bf"
 metafile = true
 
 [[files]]
-file = "mods/biolith.pw.toml"
-hash = "eb8c88db05be5e3214855584e35013bd1ca24cbef6eb22921a22aeea83faac31"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
 metafile = true
@@ -1240,6 +1235,11 @@ metafile = true
 [[files]]
 file = "resources/datapack/required/configuration.pw.toml"
 hash = "21380bb9d1b0c20c472b65becb893e1229d03d6b47f8470316c3814f494cf115"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/wilder-clifftree.pw.toml"
+hash = "8869b8ed18aa0b39dce949ed32eccb1a53151c01d3a28dabaca3b96b64434447"
 metafile = true
 
 [[files]]

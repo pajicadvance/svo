@@ -1,0 +1,8 @@
+name = "Wilder Clifftree"
+filename = "wilderclifftreev1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gP8iQ24v/versions/23bzqXKR/wilderclifftreev1.1.zip?mr_download_reason=standalone"
+hash-format = "sha512"
+hash = "f1074e86813d3e749f07bc49194e7cce47c0f8a19be2c373a758a4311985c1376f39be2c7b8d42e2243146b46cb45646251ae73d3fce5bfef6ae6438984a05fa"
