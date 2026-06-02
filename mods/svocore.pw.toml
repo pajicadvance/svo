@@ -1,0 +1,13 @@
+name = "SVO Core"
+filename = "svocore-26.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WVBuQZId/versions/LsMixgrg/svocore-26.1.0.jar"
+hash-format = "sha512"
+hash = "5529b5b0033ab32396118e21fd5b4f578d1d603baecd07dc7f3000fe809e730b78d20f95da287f07a006950e1be05b7fd2538cc529de99c3785495e3a2b5ea3d"
+
+[update]
+[update.modrinth]
+mod-id = "WVBuQZId"
+version = "LsMixgrg"

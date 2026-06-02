@@ -1088,6 +1088,11 @@ hash = "79babad874fdf95ea4ba812a66bfd441e1e94ab0101469fb3934b54cc9a85ed2"
 metafile = true
 
 [[files]]
+file = "mods/svocore.pw.toml"
+hash = "086d2cb997bcebf08518c0da6768ad25ba392694ae8fd74f3bd598e4488ad9bf"
+metafile = true
+
+[[files]]
 file = "mods/swing-through-grass.pw.toml"
 hash = "959f1857444400025da1442b4f0d75090e68ce32ad12271c7000703105d58c1f"
 metafile = true
