@@ -1,13 +1,13 @@
 name = "SVO Core"
-filename = "svocore-26.1.0.jar"
+filename = "svocore-26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WVBuQZId/versions/LsMixgrg/svocore-26.1.0.jar"
+url = "https://cdn.modrinth.com/data/WVBuQZId/versions/AM4x0OLA/svocore-26.1.2.jar"
 hash-format = "sha512"
-hash = "5529b5b0033ab32396118e21fd5b4f578d1d603baecd07dc7f3000fe809e730b78d20f95da287f07a006950e1be05b7fd2538cc529de99c3785495e3a2b5ea3d"
+hash = "71a0a374f2d90dec687ecdc3fdda75dc347b4396ea6eed848498768fda59da85a4a9a9a53185ade90cf0b5aeeac9341ababf28dee8b4cb8a3be48d08fe1c65cf"
 
 [update]
 [update.modrinth]
 mod-id = "WVBuQZId"
-version = "LsMixgrg"
+version = "AM4x0OLA"

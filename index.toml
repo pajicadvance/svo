@@ -14,7 +14,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b714eecb3a4c3e99177e21d66d9bd5b3b8487cf380658e7afd8f274258a823b5"
+hash = "ac452845bf593c41a550458076a561a0b0da4dccecda31d750c383abf8016cd8"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -318,7 +318,7 @@ hash = "3de02f7620f65dbe6b64203227fef0fd35807c73d557bf6255a5d6ab5f92ac8c"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "7a1c6309ccec1941b0beb3aecbf56a2b6ffaef0b0f574d60e1aea238140d98dc"
+hash = "2add21cfdd2f3bd014887ed681920598d0a67207fb5444181e2176a04f603a2c"
 
 [[files]]
 file = "config/svo-core-client.json"
@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/svocore.pw.toml"
-hash = "086d2cb997bcebf08518c0da6768ad25ba392694ae8fd74f3bd598e4488ad9bf"
+hash = "79c27f688fffeb500b04e255d523e73157a741368b3212e3330a78ec65a9e1dd"
 metafile = true
 
 [[files]]
