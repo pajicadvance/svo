@@ -14,7 +14,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "12b5d602dc36a90ab895e266bd55d11b6a629314a5830828cf4174b7dacd2e6f"
+hash = "3bdab0f6fadf4121ac147c8d15d9819da7ad2f2f7e2ede2a5b29151e22fe74dd"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -318,7 +318,7 @@ hash = "3de02f7620f65dbe6b64203227fef0fd35807c73d557bf6255a5d6ab5f92ac8c"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "fdceda1f81bb7a0436715981de7ed33a7b830d48ad9815079b3398506d5bb80d"
+hash = "709d4851017cdbe8ec4ed604b24f5425ab7407b78a97aad083334fab7710952d"
 
 [[files]]
 file = "config/simple_smithing_overhaul/config-v2.toml"
