@@ -6,7 +6,6 @@ netheriteRepairMaterial = "DIAMOND"
 modifyAnvilRepairUnitCosts = true
 modRepairableItems = [
     [ "rearm:netherite_shield", "minecraft:diamond" ],
-    [ "#chalk:glow_chalks", "minecraft:calcite" ],
     [ "#chalk:chalks", "minecraft:calcite" ],
     [ "rearm:netherite_bow", "minecraft:diamond" ],
     [ "simple_fishing_overhaul:netherite_fishing_rod", "minecraft:diamond" ],
@@ -15,7 +14,6 @@ modRepairableItems = [
 modItemUnitCosts = [
     [ "#farmersdelight:tools/knives", 1 ],
     [ "rearm:netherite_bow", 3 ],
-    [ "#chalk:glow_chalks", 2 ],
     [ "#chalk:chalks", 2 ],
     [ "rearm:netherite_shield", 3 ],
     [ "rearm:netherite_crossbow", 3 ],
@@ -63,8 +61,11 @@ flintMaterialWhitelist = [
     "#minecraft:wooden_tool_materials",
     "#minecraft:stone_tool_materials",
     "#minecraft:copper_tool_materials",
+    "#minecraft:iron_tool_materials",
     "#minecraft:repairs_leather_armor",
     "#minecraft:repairs_copper_armor",
+    "#minecraft:repairs_chain_armor",
+	"#minecraft:repairs_iron_armor",
     "minecraft:flint",
     "minecraft:string",
     "minecraft:feather",

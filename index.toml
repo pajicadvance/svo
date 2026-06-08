@@ -14,7 +14,15 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ac452845bf593c41a550458076a561a0b0da4dccecda31d750c383abf8016cd8"
+hash = "12b5d602dc36a90ab895e266bd55d11b6a629314a5830828cf4174b7dacd2e6f"
+
+[[files]]
+file = "config/misctweaks/client_config.toml"
+hash = "adb9c17735be4a42d7819ff952fbb75fd822667ca0221df6cbaeed8ae96eaea0"
+
+[[files]]
+file = "config/misctweaks/config.toml"
+hash = "2270f00732a135ec0d80695254472156714d2523eba2c7bd28280f319591e6af"
 
 [[files]]
 file = "config/modpack_defaults/config/actuallyharvest-common.toml"
@@ -125,14 +133,6 @@ file = "config/modpack_defaults/config/miningdelay.json"
 hash = "7722794a5228abc48dee53c766767eb29adf8f1faff4a751f9fe915e04a2ff2a"
 
 [[files]]
-file = "config/modpack_defaults/config/misctweaks/client_config.toml"
-hash = "adb9c17735be4a42d7819ff952fbb75fd822667ca0221df6cbaeed8ae96eaea0"
-
-[[files]]
-file = "config/modpack_defaults/config/misctweaks/config.toml"
-hash = "06c5fc884b5b75995f4a7cf74e1348f466aa9941389dafc226d9a3f6a13027d0"
-
-[[files]]
 file = "config/modpack_defaults/config/modmenu.json"
 hash = "4c7c0d9c5ab8b1bceece6d0d3d3e3cc72acd289d510e4d0933b325ce3582e7d2"
 
@@ -181,8 +181,12 @@ file = "config/modpack_defaults/config/rrv/recipe_categories.json"
 hash = "a70a5d038926c67ac95f56e6c2ea8773f204b2a8e29b8a49b03eda683754b5fd"
 
 [[files]]
-file = "config/modpack_defaults/config/sensible_stackables.json"
-hash = "cf0030a804bb0297287bc520d51a45a8d865783a93dd689389fba47196c51914"
+file = "config/modpack_defaults/config/sensible_stackables/client_config.toml"
+hash = "10c50e7fc37be33cfa9c92c981657f87ef208107209e0cfd6a0777d0b98b2a71"
+
+[[files]]
+file = "config/modpack_defaults/config/sensible_stackables/config.toml"
+hash = "ee1cd09fa17ec9bc80d25a5f6c0c854dc998e36bdae6d295d676a06262c8287f"
 
 [[files]]
 file = "config/modpack_defaults/config/sereneseasons/fertility.toml"
@@ -203,10 +207,6 @@ hash = "d2b6aee625c473ff6a19777f967c44780a17d016ce2a1e913fee991e1cb27992"
 [[files]]
 file = "config/modpack_defaults/config/simple_music_control/config.toml"
 hash = "d546a0d6b3ba1caba779349014e23eade85592d067ea9f0add092b227fc70eee"
-
-[[files]]
-file = "config/modpack_defaults/config/simple_smithing_overhaul/config-v2.toml"
-hash = "be801e9161eafc6ea06cfade8a713ee6c69c25f21668ebd59a1a1ef1325515d4"
 
 [[files]]
 file = "config/modpack_defaults/config/simplefog.json"
@@ -318,7 +318,11 @@ hash = "3de02f7620f65dbe6b64203227fef0fd35807c73d557bf6255a5d6ab5f92ac8c"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "2add21cfdd2f3bd014887ed681920598d0a67207fb5444181e2176a04f603a2c"
+hash = "fdceda1f81bb7a0436715981de7ed33a7b830d48ad9815079b3398506d5bb80d"
+
+[[files]]
+file = "config/simple_smithing_overhaul/config-v2.toml"
+hash = "2d8d428f4dd95337c790065e4b6564bbf7853320ffaa70e1601f48361e96c3af"
 
 [[files]]
 file = "config/svo-core-client.json"
@@ -444,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "82f8e930d470d72330d18b6609e233f5c61a37866cec7c93f17d9bc6006e7565"
+hash = "d8191c7ff64782b226c8689c168961f303b17638dded11522f25f0509db01c15"
 metafile = true
 
 [[files]]
@@ -489,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "263a6ce121b379fd334495987e4a6a7dc6b7d5273b5b4e80a8b9978133d12081"
+hash = "fe62406d5122a0fe349f00916c1a62260722f77703e15f05b4bb4461fb3b799a"
 metafile = true
 
 [[files]]
@@ -533,8 +537,13 @@ hash = "78773495609b64dd539a2db03395128f206b75f3fd48922e803213fb5698e69f"
 metafile = true
 
 [[files]]
+file = "mods/defaulted.pw.toml"
+hash = "337b9439fdaa8b5c7a910e9072fa0e21c81b5ea8a6c2f9c7a5c44b502ca61afb"
+metafile = true
+
+[[files]]
 file = "mods/depillage.pw.toml"
-hash = "5308686d16cf02502694fa76ab0b4ff6b9ce06b68d55ee7aef2344f30e56c162"
+hash = "09919fb033a502fcb141d9ec6fcaee7b29b67baf048bff4caf90f7c2dd445f86"
 metafile = true
 
 [[files]]
@@ -599,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "865ee3da70da1671c3797b1cc87cff689e1c01e74f8dbf0c646d63722209c5df"
+hash = "757056089d86438c3c95912780826d0cccdc442993f520b6d40d4f6e2dd2ddc6"
 metafile = true
 
 [[files]]
@@ -629,12 +638,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8623809fe6a60aa6b9ae6358bf2796742847e8641e1cc27bc3886484125ed6be"
+hash = "dbfc484ebc80a9b76e1fd95c89f9a63d702ee9eaa7051beaf1d609360afc2ef6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -703,11 +712,6 @@ hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
 
 [[files]]
-file = "mods/improved-maps.pw.toml"
-hash = "e85a438f5f5efe5149d77593bea9e44a06426d9e7dccc51855ccca6297689ff0"
-metafile = true
-
-[[files]]
 file = "mods/inline-tooltips.pw.toml"
 hash = "b3c52f8286ea9f01bedaa3e0866c6815cec3b96b9df1444b72a0df41da1a5e67"
 metafile = true
@@ -729,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "4dad077c4f11e760a779afcfc6d70faaee814978367a27e016d5620279241902"
+hash = "8fa5669929af129935a06b50ee323cd4fb25a2328356cc3190ce189119a25ab4"
 metafile = true
 
 [[files]]
@@ -759,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f70d8ec7c871ad284b1e155c7a8a8461edc00c7b1ddecec0c10f212f77911376"
+hash = "90d5603faf196b9c30274831dd042935311202a58baaa7c7e2e50df6198d85e3"
 metafile = true
 
 [[files]]
@@ -814,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/misctweaks.pw.toml"
-hash = "e5f8a3babcabe54c484695dffaccf8c3551c5e57e91d2662fc1096b7a708b096"
+hash = "c93f542ece92ea7f509c3538af3cd867987b25b1a1fd44dc0491a076d352f806"
 metafile = true
 
 [[files]]
@@ -839,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-and-melody.pw.toml"
-hash = "599922f67cca8add4165a1faee6a791287cca4a50621698af9373ae384b12728"
+hash = "df7c1e01a429736b85ddd7efed4653afafdd4a6469696909207564fce99e2133"
 metafile = true
 
 [[files]]
@@ -903,11 +907,6 @@ hash = "a4d0c8354808a4ecf4894a8e91cda492c5dfdd3fa11e9616240301ca250805e5"
 metafile = true
 
 [[files]]
-file = "mods/polymer.pw.toml"
-hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
-metafile = true
-
-[[files]]
 file = "mods/puddles-floods.pw.toml"
 hash = "82e9888374f7ee727026fec498fd0c6988df36d392e6d016cb33e7c08ee7a45d"
 metafile = true
@@ -964,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "d9f57d4714c678610f9da1c5c551157d7f7fab8bf466f179ad5c4198424a9bdd"
+hash = "edf4a7ea26c22360750d3988a8069a8fa7405e72a0e5cab19bba4ce807c8b00b"
 metafile = true
 
 [[files]]
@@ -979,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/sensible-stackables.pw.toml"
-hash = "faac4ea937bb00e32bb70c6573b0040925373e8488406dd774b793037991cc4f"
+hash = "28a587df33382d48fdc210e84629c57452902289e4762e36ede1f552aec366ec"
 metafile = true
 
 [[files]]
@@ -1029,7 +1028,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "47f1affd16ed77ad979c2e523ff0340ba9b78f6a9038edd4c23ec678cef4e58d"
+hash = "5b473c5f24b8e27a0e25516bf792a30ebdae90ebfe2d8aa906edca0b0312c21a"
 metafile = true
 
 [[files]]
@@ -1104,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "436a05536fd9f13e529c0370413f3904c8eaad02003c8a8ddcc2e3f701e77b6f"
+hash = "a008c7afa4155f8c4bb7da8cd9228dabf822995dcefc9e5394008fd594a8e6fb"
 metafile = true
 
 [[files]]
@@ -1154,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
-hash = "ac38b311f572e3d89a818e162c682f96805c6c1c142e1cd84c150a9f7c9417fc"
+hash = "a7a718ab0bd594faf7afaa94f0d5a0d2f383b6e7be3d8560deed72b2daa6fe8a"
 metafile = true
 
 [[files]]
@@ -1174,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "acebe120689da2dc8ddadc190d79e64cd83dfc81e79fb294ce1bee5f55c54d09"
+hash = "a5134a05b04e686bb8b1fbac81c611ad43fd33a5d22b227258d11a53cfefbf08"
 metafile = true
 
 [[files]]
@@ -1199,12 +1198,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
+hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
 metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "dd275d2b9f7edd1046117a4d03fb567f63b65218fc4b1abf2bcd3f0eb531f3ba"
+hash = "6f1a5b0bcf0daa199fc2a45664a761ce9adc5e5dbbd15346620e777b3fbe6ae8"
 metafile = true
 
 [[files]]

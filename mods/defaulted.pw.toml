@@ -1,0 +1,13 @@
+name = "Defaulted"
+filename = "defaulted-fabric-26.1.2-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/hsxftuoT/defaulted-fabric-26.1.2-1.2.3.jar"
+hash-format = "sha512"
+hash = "2a69bb1837333a51ae6cfd4544fc57ad6616dac23dddfbec151575033b89cb386d4a6feed1bce45a6c474c53ed53786ff794cfc77ec1bf33a10fb1bddd3888c8"
+
+[update]
+[update.modrinth]
+mod-id = "LxgPJAAy"
+version = "hsxftuoT"

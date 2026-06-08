@@ -2,7 +2,7 @@
     "main_menu": {
         "bottom_right": [
             {
-                "text": "Simple Vanilla Overhaul 26.1.1",
+                "text": "Simple Vanilla Overhaul 26.1.2",
                 "click_event": {
                     "action": "open_url",
                     "url": "https://modrinth.com/modpack/svo"
@@ -17,7 +17,7 @@
     "pause_menu": {
         "bottom_right": [
             {
-                "text": "Simple Vanilla Overhaul 26.1.1",
+                "text": "Simple Vanilla Overhaul 26.1.2",
                 "click_event": {
                     "action": "open_url",
                     "url": "https://modrinth.com/modpack/svo"

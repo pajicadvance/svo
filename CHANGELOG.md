@@ -1,2 +1,6 @@
-- Fixed some custom recipes not applying.
-- Fixed feature cycle error on subsequent world loads after the first.
+- Increased max item stack size to 256.
+- Re-enabled shulker duplication.
+- Disabled food searching for wolves.
+- Iron equipment can now also be repaired using flint as the repair tool, along with flint and copper equipment.
+- Removed Improved Maps.
+- Removed Polymer.
