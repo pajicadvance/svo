@@ -1,0 +1,13 @@
+name = "Stonecutting Upgrade"
+filename = "StonecuttingUpgrade-v26.1.1-mc26.1.x-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCLuNtSF/versions/hvhTRRqT/StonecuttingUpgrade-v26.1.1-mc26.1.x-Fabric.jar"
+hash-format = "sha512"
+hash = "42f1b060e5278ab0c7c58e99ddd016371cf59472c6a266533f494f1f92f32c9e5eb5395b58c164cd19c844b751fafc7c052796bd8b2ba8bb4737ce312c14423a"
+
+[update]
+[update.modrinth]
+mod-id = "ZCLuNtSF"
+version = "hvhTRRqT"

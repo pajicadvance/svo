@@ -1,10 +1,7 @@
-26.1.3:
-- Bumped Fabric Loader to 0.19.3.
-
-26.1.2:
-- Increased max item stack size to 256.
-- Re-enabled shulker duplication.
-- Disabled food searching for wolves.
-- Iron equipment can now also be repaired using flint as the repair tool, along with flint and copper equipment.
-- Removed Improved Maps.
-- Removed Polymer.
+- Added Name Tag Upgrade.
+- Added Stonecutting Upgrade.
+- Added special crafting recipe that allows renaming items using name tags.
+- Updated Bannerpoint to allow showing banner names in the locator bar by holding Tab or Shift.
+- Updated configuration for MiscTweaks to prevent horses from searching for food.
+- Updated configuration for Actually Harvest to allow harvesting without a hoe and disable hoe damage when harvesting.
+- Unbound playlist key from Music and Melody by default.

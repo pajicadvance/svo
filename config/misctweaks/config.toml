@@ -38,3 +38,10 @@ doSearch = false
 searchRange = 16
 searchSpeed = 1.25
 searchGoalPriority = 2
+
+[[animalConfiguration]]
+id = "minecraft:horse"
+doSearch = false
+searchRange = 16
+searchSpeed = 1.25
+searchGoalPriority = 2

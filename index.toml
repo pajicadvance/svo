@@ -5,6 +5,10 @@ file = "LICENSE.txt"
 hash = "0bdfb0201d1803634f268cdff0993b8349d2c70e956a06dbb667c8dd65254ec5"
 
 [[files]]
+file = "config/actuallyharvest-common.toml"
+hash = "650abebafbeb21f301851e1644687399714e228e040e083af72a6da4cb29a3b8"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "4bcb9dbc2dbecb400c629c91ea4bbf013450af65d3ea14735b97021ba51c8309"
 
@@ -14,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3bdab0f6fadf4121ac147c8d15d9819da7ad2f2f7e2ede2a5b29151e22fe74dd"
+hash = "7fb85e1d86caa83537c6a6cde20aeeae69ae4747668bac77dd3dd1ff0ee66c1f"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -22,11 +26,7 @@ hash = "adb9c17735be4a42d7819ff952fbb75fd822667ca0221df6cbaeed8ae96eaea0"
 
 [[files]]
 file = "config/misctweaks/config.toml"
-hash = "2270f00732a135ec0d80695254472156714d2523eba2c7bd28280f319591e6af"
-
-[[files]]
-file = "config/modpack_defaults/config/actuallyharvest-common.toml"
-hash = "0c892c27b6acecabd566946d3dccdc65ba16a500039c0276e00c09da17b47282"
+hash = "1adab35c05e1cb4e02cb9b697a99f59142bf5cbbb2047882545ca3563effa7bf"
 
 [[files]]
 file = "config/modpack_defaults/config/aileron/config.toml"
@@ -314,11 +314,11 @@ hash = "f159e57cfc2b56e6b5cbc939bfcf0a48219d5a8c76167bb183119a9f66704fd5"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "3de02f7620f65dbe6b64203227fef0fd35807c73d557bf6255a5d6ab5f92ac8c"
+hash = "85a7bba524af62938476ce4cbdb2faf4dfd51689e18ef295e0d8d3cbeb4f849f"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "709d4851017cdbe8ec4ed604b24f5425ab7407b78a97aad083334fab7710952d"
+hash = "5127360fb54481fc98c646119de675022deb7db96e511978afce4da91dcee379"
 
 [[files]]
 file = "config/simple_smithing_overhaul/config-v2.toml"
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/bannerpoint.pw.toml"
-hash = "899c476fd54179a0bf7d59823ce95f8a00c8a1cfc50f0edf598d041d63b9416e"
+hash = "d88dd79f571e14b35080574269883a98ea9706b12d978657e01256d59cfac487"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/defaulted.pw.toml"
-hash = "337b9439fdaa8b5c7a910e9072fa0e21c81b5ea8a6c2f9c7a5c44b502ca61afb"
+hash = "dc3c068bd757fd2ec908c730f7b498766ff751c2c8f7fceaa824d98624aa2646"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "757056089d86438c3c95912780826d0cccdc442993f520b6d40d4f6e2dd2ddc6"
+hash = "6c6032bc2e5113b73e3b4900ac49f7336eb029f2460638367a5fb0fa2a298568"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "451f8726db7533de82a17cc902fe6053dcd82f968442c17d507d0373de02ddd0"
+hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
 metafile = true
 
 [[files]]
@@ -847,6 +847,11 @@ hash = "df7c1e01a429736b85ddd7efed4653afafdd4a6469696909207564fce99e2133"
 metafile = true
 
 [[files]]
+file = "mods/name-tag-upgrade.pw.toml"
+hash = "fcd90eafa20cebb69c5bda1a3805a54fef0fb2383cec00bf0da67ec3e291a723"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
@@ -917,6 +922,11 @@ hash = "500793e2fc9c7a6477815ae9a12fc080050179277c3a18b055afc39d8a5fe500"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "18c91b0d854cd871d9939abe95a55266c436a7e5d92e1bd19274b33edc46382e"
+metafile = true
+
+[[files]]
 file = "mods/quick-pack.pw.toml"
 hash = "07adbf0de8f0e7d677b814ad8c770e5fd738719c15dd80f57bec4d6353d96709"
 metafile = true
@@ -963,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "edf4a7ea26c22360750d3988a8069a8fa7405e72a0e5cab19bba4ce807c8b00b"
+hash = "95260879087a49630240cc2e8eb3d4983a80cc09cbd68fb751daf02718cabb9d"
 metafile = true
 
 [[files]]
@@ -1082,6 +1092,11 @@ hash = "1ad93d29e2c2d3d79dd88260dda65b1c422279a64aedbb18f4c7f124c218f9d8"
 metafile = true
 
 [[files]]
+file = "mods/stonecutting-upgrade.pw.toml"
+hash = "0fd9bdc80dd61fc1274065fc1d6fdbcdf0f53375bef1e0225ae7a354ec4f0f58"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "0a492579cdfcaa2033d698315ce3b9c1959b10841e38e1a0bb874a9e648838f1"
 metafile = true
@@ -1093,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/svocore.pw.toml"
-hash = "79c27f688fffeb500b04e255d523e73157a741368b3212e3330a78ec65a9e1dd"
+hash = "b7d9cdb1296a2acc439f00ee33a6864f2157c87b49666a239cbd54fcdc1b3688"
 metafile = true
 
 [[files]]
