@@ -1,13 +1,13 @@
 name = "Tax Free Levels"
-filename = "TaxFreeLevels-1.5.3-fabric-26.1.jar"
+filename = "TaxFreeLevels-1.5.4-fabric-26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/ivrxkU4V/TaxFreeLevels-1.5.3-fabric-26.1.jar"
+url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/nnOm34tW/TaxFreeLevels-1.5.4-fabric-26.1.jar"
 hash-format = "sha512"
-hash = "3a3db2340d1dac006c2cb2dff2e88933b2faf5048003c649222597589cd70fa5c030d02822fe54128ec6d9377240629995d588c5679e75d9819ccfa4fb497452"
+hash = "1a0e0e646862dd5afa1c5168c34e6597cbc532e9da24640d061946b0085dc7c9483d772f77d42efc94e4813cac71a58e49b9b6de569ba5179b3c44b3646fc719"
 
 [update]
 [update.modrinth]
 mod-id = "jCBrrLTs"
-version = "ivrxkU4V"
+version = "nnOm34tW"

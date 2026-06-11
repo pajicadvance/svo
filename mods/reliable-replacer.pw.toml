@@ -1,0 +1,13 @@
+name = "Reliable Replacer"
+filename = "reliable_replacer-fabric-26.1.2-1.5.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/swDAEYpN/versions/WATOclbJ/reliable_replacer-fabric-26.1.2-1.5.5.jar"
+hash-format = "sha512"
+hash = "52874db40c6ae3006d0a86b3c6d79373642cdf76350be8f4a48f37cbddb861bea3bf00a55c30d860449c9e278e73bec30a134bb7a42661920abb3436a54cd221"
+
+[update]
+[update.modrinth]
+mod-id = "swDAEYpN"
+version = "WATOclbJ"

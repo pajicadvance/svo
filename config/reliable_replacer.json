@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "missing_id_map": {
+    "trmt:eroded_dirt": "minecraft:dirt",
+    "trmt:eroded_coarse_dirt": "minecraft:coarse_dirt",
+    "trmt:eroded_grass_block": "minecraft:grass_block",
+    "trmt:eroded_sand": "minecraft:sand"
+  }
+}

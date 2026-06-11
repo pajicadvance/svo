@@ -1,6 +1,6 @@
 {
   "configVersion": 2,
-  "localVersion": "26.1.5",
+  "localVersion": "26.1.6",
   "identifier": "https://raw.githubusercontent.com/pajicadvance/svo/26.1/pack.toml",
   "releaseChannel": "release",
   "minecraftVersions": ["26.1", "26.1.1", "26.1.2"]

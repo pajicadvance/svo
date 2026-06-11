@@ -1,12 +1,12 @@
 name = "Simple Vanilla Overhaul"
 author = "pajic"
-version = "26.1.5"
+version = "26.1.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c4ac4e4c60dfd62b7c2bd217070af96db8613abe11511dff56f2a864721545f3"
+hash = "93d9cbcd34819839929e79e06c2b58951014b5c2a4f197df7da09e5aef61d524"
 
 [versions]
 fabric = "0.19.3"

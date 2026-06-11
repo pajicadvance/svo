@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "440dc77dcd806b125c88a76216ea30e843144055f3a7a6dce87934c74bdc7bcf"
+hash = "8d9880f7f2788dda1fa817bd4bb2054090dc2faae33ae9e028a97a665206bc61"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -317,8 +317,12 @@ file = "config/modpack_defaults/options.txt"
 hash = "85a7bba524af62938476ce4cbdb2faf4dfd51689e18ef295e0d8d3cbeb4f849f"
 
 [[files]]
+file = "config/reliable_replacer.json"
+hash = "2fce498eb410be09a4d13b0e3bd22570485fecb2d9a5b7457212d7e30e2764d4"
+
+[[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "d2cf6d58464ad46f6a3b8d8dbc27839a98a8cca22242eb802e1b1362cc7360af"
+hash = "8c0ed15999ba5bc3714c28a970a8dfca3f0a1cd02a9336ccc2717970fc7a86bb"
 
 [[files]]
 file = "config/simple_smithing_overhaul/config-v2.toml"
@@ -942,6 +946,11 @@ hash = "02a2e8c578f1c4a4d3fdca38f899e64a248dbc3b322e09da73046e23b8339e8e"
 metafile = true
 
 [[files]]
+file = "mods/reliable-replacer.pw.toml"
+hash = "4fa9f5cc0bb3b83c58d5155d7f268497182d74c4a41f196286d26bfc73af2e12"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
@@ -1118,12 +1127,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "a008c7afa4155f8c4bb7da8cd9228dabf822995dcefc9e5394008fd594a8e6fb"
-metafile = true
-
-[[files]]
-file = "mods/the-roads-more-travelled.pw.toml"
-hash = "cf2137c92590de195ed31fe5d69d30207035644ee1d9d6a2edc444a8e5a16f89"
+hash = "808265b6a9effdca0a30721dc99133dd499baa517862aaaee500e464dc48e5f9"
 metafile = true
 
 [[files]]
@@ -1153,12 +1157,12 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "96fb26e39cbecb27c69a3ceb66ec153d1bcb06b9db6aa190bfc1ac8469df738a"
+hash = "c2ebc9e2475591547a2f7fa50acd78f8f289b9fb5dd41213fd02e383dc60a543"
 metafile = true
 
 [[files]]
 file = "mods/tool-trims-mod.pw.toml"
-hash = "907edf1405c0cb8c4c9da0ff59947ef5fd16106b7c4dc3d2801feaf19004cde6"
+hash = "3c6dc8c10e8f8811724359f106c708424cf20033be98aa5cf95b1f8f2b2db990"
 metafile = true
 
 [[files]]
