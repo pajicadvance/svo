@@ -1,3 +1,4 @@
 - Removed The Roads More Travelled due to performance issues.
 - Added Reliable Replacer to revert blocks from The Roads More Travelled to vanilla blocks.
+- Replaced Name Tag Upgrade with Reliable Name Tags.
 - Updated Tool Pouch to fix a potential crash.

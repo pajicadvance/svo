@@ -1,0 +1,13 @@
+name = "Reliable Name Tags"
+filename = "reliablenametags-2.0.0+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xvUE2Syx/versions/qQsc2FiN/reliablenametags-2.0.0%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "cf8391f9a2c31698c3d611358c1c9c53f36babc67aee6302d563e38d671e81ecb417b82d8478c9724db80a21e703ac7654c881db841ae12c7898a05b9a2539c3"
+
+[update]
+[update.modrinth]
+mod-id = "xvUE2Syx"
+version = "qQsc2FiN"

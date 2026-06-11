@@ -851,11 +851,6 @@ hash = "df7c1e01a429736b85ddd7efed4653afafdd4a6469696909207564fce99e2133"
 metafile = true
 
 [[files]]
-file = "mods/name-tag-upgrade.pw.toml"
-hash = "fcd90eafa20cebb69c5bda1a3805a54fef0fb2383cec00bf0da67ec3e291a723"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
@@ -946,8 +941,13 @@ hash = "02a2e8c578f1c4a4d3fdca38f899e64a248dbc3b322e09da73046e23b8339e8e"
 metafile = true
 
 [[files]]
+file = "mods/reliable-name-tags.pw.toml"
+hash = "d6388d8aed003cdcab1df6ae33f6eecebd4e0a26d7c0c63b6080b1e7651e0c92"
+metafile = true
+
+[[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "4fa9f5cc0bb3b83c58d5155d7f268497182d74c4a41f196286d26bfc73af2e12"
+hash = "959888ee27cfd49d38821ec6fc5400b61dd66a45ebfa8814c818f59a9485aad5"
 metafile = true
 
 [[files]]
@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/svocore.pw.toml"
-hash = "b7d9cdb1296a2acc439f00ee33a6864f2157c87b49666a239cbd54fcdc1b3688"
+hash = "79c27f688fffeb500b04e255d523e73157a741368b3212e3330a78ec65a9e1dd"
 metafile = true
 
 [[files]]
