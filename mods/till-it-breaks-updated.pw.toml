@@ -1,13 +1,13 @@
 name = "Till It Breaks Updated"
-filename = "tillitbreaks-1.1.3+26.1-fabric.jar"
+filename = "tillitbreaks-1.1.4+26.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GG12dlQh/versions/9AEYzMpD/tillitbreaks-1.1.3%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/GG12dlQh/versions/K0fNBoZk/tillitbreaks-1.1.4%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "652c256fabab0330f1341f45e4a286b5cddde87f57d99e5cb730593ab383565178b1128033e291a1b1e467cbef94ba66128227d814f8676a55c3ac0abc352399"
+hash = "46b1603be096b1f5798d4aee4b9d8bcc1afd6bc2ee56efd0686f7de0249c827c540a9560daf3da3a844c95f4e5aeff55f48eca79c5b1ec95ace96ab07206dddc"
 
 [update]
 [update.modrinth]
 mod-id = "GG12dlQh"
-version = "9AEYzMpD"
+version = "K0fNBoZk"

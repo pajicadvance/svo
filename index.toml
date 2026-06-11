@@ -18,7 +18,7 @@ hash = "0fb163fd7e4a117b5f7c70b6ec771c6c9d87079cda171893727a1893edb4c4ae"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7fb85e1d86caa83537c6a6cde20aeeae69ae4747668bac77dd3dd1ff0ee66c1f"
+hash = "440dc77dcd806b125c88a76216ea30e843144055f3a7a6dce87934c74bdc7bcf"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
@@ -318,7 +318,7 @@ hash = "85a7bba524af62938476ce4cbdb2faf4dfd51689e18ef295e0d8d3cbeb4f849f"
 
 [[files]]
 file = "config/simple-modpack-update-checker.json"
-hash = "5127360fb54481fc98c646119de675022deb7db96e511978afce4da91dcee379"
+hash = "d2cf6d58464ad46f6a3b8d8dbc27839a98a8cca22242eb802e1b1362cc7360af"
 
 [[files]]
 file = "config/simple_smithing_overhaul/config-v2.toml"
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "9bb59cb12bb923efa3759ea3f02944ad14b5a63815f1dbe2b6da2bccf0f17b63"
+hash = "0c930046d3a6d1e6264ffc75caea65b6ed11d16c04026174d5bff2ea39f778e5"
 metafile = true
 
 [[files]]
@@ -1143,7 +1143,7 @@ metafile = true
 
 [[files]]
 file = "mods/till-it-breaks-updated.pw.toml"
-hash = "e958e50011c09a90ab429b2032dba8b89a19173ac4f5d1ea6377a75006d501df"
+hash = "1d539a7bdba101f7f9bc62b6620453ed0e6c0cdc4360b82598c16e05d0066a7c"
 metafile = true
 
 [[files]]
@@ -1153,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/tool-pouch.pw.toml"
-hash = "069e8e9c68096863bea366e02e9fb21a6dc7477a4edd03a3feafc62d2008f926"
+hash = "96fb26e39cbecb27c69a3ceb66ec153d1bcb06b9db6aa190bfc1ac8469df738a"
 metafile = true
 
 [[files]]

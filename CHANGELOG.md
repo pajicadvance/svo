@@ -1,3 +1,7 @@
+26.1.5:
+- Fixed occasional lag spikes when carrying a Tool Pouch.
+
+26.1.4:
 - Added Name Tag Upgrade.
 - Added Stonecutting Upgrade.
 - Added special crafting recipe that allows renaming items using name tags.
